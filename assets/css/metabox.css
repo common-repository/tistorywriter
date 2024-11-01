@@ -1,0 +1,36 @@
+#tw_metabox #checkAllowComment {
+    margin-left: 5px;
+}
+
+#tw_metabox #checkMakePublic {
+   margin-left: 5px;
+}
+
+#tw_metabox #select_category {
+    width: 200px;
+}
+
+#tw_metabox #lbl_desc {
+    margin-left: 3px;
+}
+
+#tw_metabox #input_tag {
+    width: 200px;
+}
+
+#tw_metabox .tw-table { display: table; }
+#tw_metabox .tw-row { display: table-row; height: 50px; vertical-align: middle;}
+#tw_metabox .tw-cell { display: table-cell; padding: 5px; vertical-align:  middle;  }
+
+#tw_metabox #select_blogname {
+    width: 200px;
+}
+
+#tw_metabox .dim-overlay {
+    background-color: rgba(0,0,0,0.5);
+    position:fixed;
+    left:0;
+    top: 0;
+    width:100%;
+    height:100%;
+}
